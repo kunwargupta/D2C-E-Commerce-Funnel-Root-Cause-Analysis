@@ -466,5 +466,4 @@ The traffic problem is not evenly distributed across the funnel. The clearest lo
 The dashboard turns these conclusions into an interactive workflow: select a segment, inspect its funnel, compare retention by stage, and identify where the next business experiment should focus.
 
 The most important conclusion is therefore not simply that conversion is **6.82%**. It is that the business now knows **which stage to investigate first, which segments provide useful contrasts, and which additional data is needed to confirm the cause**.
-#   D 2 C - E - C o m m e r c e - F u n n e l - R o o t - C a u s e - A n a l y s i s  
- 
+#
